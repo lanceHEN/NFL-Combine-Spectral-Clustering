@@ -37,11 +37,11 @@ pip install -r requirements.txt
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/lanceHEN/NFL-Combine-Spectral-Clustering.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd NFL-Combine-Spectral-Clustering
    ```
 
 ## Usage
