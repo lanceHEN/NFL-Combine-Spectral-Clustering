@@ -59,7 +59,7 @@ python src/clusterexamples.py
 NFL combine data from 2020 to 2024 is stored in the `src/data/` directory. The data includes player statistics such as height, weight, 40-yard dash time, and other combine metrics.
 
 ### Adding New Data
-To add combine data for a given year, navigate to [the Pro Football Reference Draft Page](https://www.pro-football-reference.com/draft/), select 'Combine Results', choose the year you'd like, click 'Share and Export', click Get table as CSF (for Excel)", write a new CSV file with the listed text as its contents, place the CSV file in the `src/data/` directory, and ensure it follows the same format as the existing files. The clustering script will automatically process it when specified.
+To add combine data for a given year, navigate to [the Pro Football Reference Draft Page](https://www.pro-football-reference.com/draft/), select 'Combine Results', choose the year you'd like, click 'Share and Export', click 'Get table as CSF (for Excel)', write a new CSV file with the listed text as its contents, place the CSV file in the `src/data/` directory, and ensure it follows the same format as the existing files. The clustering script will automatically process it when specified.
 
 ## Data Sources
 This project uses publicly available NFL combine data from [Pro Football Reference](https://www.pro-football-reference.com/)
